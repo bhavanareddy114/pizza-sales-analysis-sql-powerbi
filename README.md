@@ -40,7 +40,7 @@ Analyzed pizza sales data using SQL and Power BI to identify sales trends, produ
 
 ### Sales Overview
 
-![Pizza Sales Dashboard](pizza_sales_dashboard_home.png)
+![Pizza Sales Dashboard](pizza_sales_dashboard_home_v2.png)
 
 ### Best & Worst Sellers
 
