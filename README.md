@@ -8,7 +8,6 @@ Analyzed pizza sales data using SQL and Power BI to identify sales trends, produ
 
 - SQL
 - Power BI
-- Excel
 
 ## Key KPIs
 
@@ -26,6 +25,16 @@ Analyzed pizza sales data using SQL and Power BI to identify sales trends, produ
 - Analyzed sales contribution by pizza category and size.
 - Identified top 5 and bottom 5 pizzas by revenue, quantity, and orders.
 - Created additional analysis for revenue per pizza and weekday vs weekend orders.
+
+## Key Insights
+
+- Classic pizza category contributed the highest share of sales.
+- Large-size pizzas contributed the highest share of sales by size.
+- Friday recorded the highest daily orders, followed by Saturday.
+- July recorded the highest monthly orders.
+- Thai Chicken Pizza was the top pizza by revenue.
+- Classic Deluxe Pizza ranked highest by quantity sold and total orders.
+- Brie Carre Pizza was the lowest performer across revenue, quantity, and orders.
 
 ## Dashboard
 
